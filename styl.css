@@ -1,0 +1,108 @@
+body{
+    background-color: #ffebe3;
+    background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+h1{
+    color:rgb(255, 255, 255);
+    font-family: "Lucida Sans", cursive, sans-serif;
+    font-size: 35px;
+    letter-spacing: -0.8px;
+    font-weight: 400;
+    text-decoration: underline solid rgb(68,68,68);
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    background-color:#ffd600;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 10px 800px 15px 30px;
+    margin: 5px  1px 5px 5px;
+    position: fixed;
+}
+
+
+
+#textbox {
+    color:rgb(255, 255, 255);
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 14px;
+    letter-spacing: 1.8px;
+    word-spacing: 0.4px;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: none;
+    position: fixed;
+    margin: 80px 1px 1px 1px;
+    width: 400px;
+    height: 400px;
+
+}
+
+
+.btn {
+    border: none;
+    background-color:#ff6c34;
+    padding: 14px 28px;
+    margin: 100px 30px 1px 2px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 10px;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 16px;
+    letter-spacing: 0.4px;
+    word-spacing: -0.4px;
+    color: #000000;
+    font-weight: 700;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: uppercase;
+  }
+
+.btn:hover{
+    background-color: blue;
+    border:none;
+}
+
+
+img{
+   border-radius: 5%;
+   position: fixed;
+   margin:80px 1px 1px 1200px;
+   width: 300px;
+}
+
+
+.btnportfolio {
+    border: none;
+    background-color:#ff6c34;
+    padding: 14px 28px;
+    margin: 100px 30px 1px 2px;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 10px;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 20px;
+    letter-spacing: 0.4px;
+    word-spacing: -0.4px;
+    color: #000000;
+    font-weight: 700;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: uppercase;
+  }
+
+  .btnportfolio:hover{
+    background-color: rgb(233, 5, 214);
+    border:none;
+}
+
+
